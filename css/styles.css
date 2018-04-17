@@ -1,0 +1,36 @@
+.padForty{
+  padding:40px;
+}
+.padEighty{
+  padding:80px;
+}
+.padThirty{
+  padding:30px;
+}
+.border{
+  border: 3px double white;
+}
+.yellow{
+  background-color: yellow;
+}
+.blue{
+  background-color: blue;
+}
+.neonGreen{
+  background-color:#39ff14;
+}
+.neonPink{
+  background-color:#ff00ff;
+}
+.neonBlue{
+  background-color:#00ffff;
+}
+.blackish{
+  background-color: #FF008D;
+}
+.whiteText{
+  color:white;
+}
+h1{
+  text-shadow: 2px 1px black;
+}
